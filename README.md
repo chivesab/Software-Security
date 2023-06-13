@@ -1,7 +1,4 @@
-## CMPE279 - Assignment 1
-Team members: 
-- Jinfan Zhang(015443441)
-- Yu-che Lin(015231775)
+# Software Security Project
 
 To Start:
 - compile both server and client by "cc -o server server.c" / "cc -o client client.c"
